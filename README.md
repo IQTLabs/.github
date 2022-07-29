@@ -5,7 +5,7 @@
 Exploring opportunities in Open-Source Integrated Systems (HW, SW and AI/ML) in resource constrained environments.
 -	IoT, Remote Sensing, Auto-Creation and Auto-Labelling of DataSets
 -	Active Projects Include: [AISonobuoy](https://github.com/IQTLabs/AISonobuoy), [Skyscan](https://github.com/IQTLabs/SkyScan), [GamutRF](https://github.com/IQTLabs/gamutRF)
-# 2.	Assurance
+# 2.	AI Assurance
 Exploring the risks and vulnerabilities across the full AI/ML data pipeline. 
 -	From the hardware/sensor at the point of collection to model performance 
 -	To how the User experiences the output 
