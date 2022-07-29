@@ -2,7 +2,7 @@
 
 # IQT Labs is currently working projects in 2 Theme areas this year: 
 # 1.	Edge Technology
-Exploring opportunities in Open-Source Integrated Systems (HW, SW and AI/ML) in resource constrained environments.
+Exploring opportunities in Open Source Integrated Systems (HW, SW and AI/ML) in resource constrained environments.
 -	IoT, Remote Sensing, Auto-Creation and Auto-Labelling of DataSets
 -	Active Projects Include: [AISonobuoy](https://github.com/IQTLabs/AISonobuoy), [Skyscan](https://github.com/IQTLabs/SkyScan), [GamutRF](https://github.com/IQTLabs/gamutRF)
 # 2.	AI Assurance
