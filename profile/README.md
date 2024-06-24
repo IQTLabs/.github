@@ -1,4 +1,4 @@
-![Banner](profile/Github%20Readme%20Banner.PNG)
+![Banner](Github%20Readme%20Banner.PNG)
 
 # IQT Labs is currently working projects in 2 Theme areas this year: 
 # 1.	Edge Technology
